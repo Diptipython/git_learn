@@ -5,12 +5,13 @@ public class whileclass1 {
 	
 			 				int i = 1;
 			
-					 						
+					                int a = 2;					
 					do {
 			 																	System.out.println("Value of i =" +i);
-			 																				i ++;
+			 																	i ++;
 			 																						}
 			 																								
 																				 																														while (i <= 10) ;
+					System.out.println("Value of a =" +a);
 					// 																					
 
